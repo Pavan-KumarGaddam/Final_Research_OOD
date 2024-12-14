@@ -7,9 +7,10 @@ Tools Used**
 JDeodorant: For detecting code smells like Feature Envy, Long Method, and God Class.
 CK Metrics Suite: For measuring object-oriented metrics like CBO, WMC, and LCOM.
 Key Metrics
-CBO: Measures class interdependencies.
-WMC: Measures method complexity within a class.
-LCOM: Measures the cohesion of methods within a class.
+
+**CBO**: Measures class interdependencies.
+**WMC:** Measures method complexity within a class.
+**LCOM:** Measures the cohesion of methods within a class.
 
 
 **Results**
